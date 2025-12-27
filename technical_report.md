@@ -1,7 +1,7 @@
 # Informe Técnico: Sistema de Gestión de Eventos
 
 **Fecha:** 26 de Diciembre, 2025
-**Proyecto:** Event Management System / Stitch Event Creation
+**Proyecto:** SYSTEMA DE EVENTOS-JOSÉ ALLAUCA
 
 ## 1. Diseño de Navegación (Wireflow)
 
