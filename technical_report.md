@@ -80,4 +80,4 @@ El código fuente completo está disponible públicamente en el siguiente reposi
 La aplicación fue probada localmente con `php artisan serve`. A continuación se muestran capturas de las pantallas principales.
 
 **URL del Proyecto (Local):** `http://127.0.0.1:8000`
-**URL del Proyecto (Producción - Vercel):** [INSERTE_URL_VERCEL_AQUI]
+**URL del Proyecto (Producción - Vercel):** https://ihm-cp1-events-git-main-jeidenallauca-gmailcoms-projects.vercel.app?_vercel_share=qUM7OsIRzM11YcillBfZVhYs4TqgmCGm
