@@ -81,15 +81,3 @@ La aplicación fue probada localmente con `php artisan serve`. A continuación s
 
 **URL del Proyecto (Local):** `http://127.0.0.1:8000`
 **URL del Proyecto (Producción - Vercel):** [INSERTE_URL_VERCEL_AQUI]
-
-### 4.1 Dashboard Principal
-![Dashboard de la aplicación](C:/Users/ASUS Vivobook/.gemini/antigravity/brain/73d6c61a-3d5a-4730-9022-e13f8800f11d/dashboard_page_1766804171293.png)
-
-### 4.2 Gestión de Eventos
-![Pantalla de gestión de eventos](C:/Users/ASUS Vivobook/.gemini/antigravity/brain/73d6c61a-3d5a-4730-9022-e13f8800f11d/events_page_1766804197796.png)
-
-### 4.3 Gestión de Ubicaciones
-![Pantalla de gestión de ubicaciones](C:/Users/ASUS Vivobook/.gemini/antigravity/brain/73d6c61a-3d5a-4730-9022-e13f8800f11d/locations_page_1766804231119.png)
-
-### 4.4 Gestión de Contactos
-![Pantalla de gestión de contactos](C:/Users/ASUS Vivobook/.gemini/antigravity/brain/73d6c61a-3d5a-4730-9022-e13f8800f11d/contacts_page_1766804263346.png)
